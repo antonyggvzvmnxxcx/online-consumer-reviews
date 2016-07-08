@@ -7,7 +7,7 @@ if(!isset($_GET["id"]) && !isset($_GET["category"])) {
   
   
   $category = strtolower($_GET["category"]);
-  $productId = strtolower($_GET["id"]);
+  $productId = $_GET["id"];
   
   $dataSetPath = __DIR__ . '/dataset/amazon/' . $category . '/' . $productId . '.json';
   $data = null;
@@ -147,7 +147,7 @@ if(!isset($_GET["id"]) && !isset($_GET["category"])) {
                     
                     <tr>
                       <td>Product Image</td>
-                      <td><?php if($data->ProductInfo->ImgURL) { ?>
+                      <td><?php if(!empty($data->ProductInfo->ImgURL) && $data->ProductInfo->ImgURL != "NULL") { ?>
                         <img src="<?php echo $data->ProductInfo->ImgURL; ?>"></img>
                       <?php }; ?><td>
                     </tr>

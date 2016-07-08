@@ -67,7 +67,7 @@ if(!isset($_GET["name"])) {
             </form>
           </h2>
           <div class="table-responsive">
-            <table class="table table-striped">
+            <table id="tbl_product" class="table table-striped">
               <thead>
                 <tr>
                   <th>#</th>
@@ -91,9 +91,9 @@ if(!isset($_GET["name"])) {
                         $itemName = str_replace(".json", " " , $dataSetFolder);
                         $i++;
                     ?>
-                    <tr>
+                    <tr id="<?php echo $data->ProductInfo->ProductID; ?>">
                         <td><?php echo $i; ?></td>
-                        <td><a href="product.php?id=<?php echo $data->ProductInfo->ProductID; ?>&category=<?php echo $category; ?>">
+                        <td ><a href="product.php?id=<?php echo $data->ProductInfo->ProductID; ?>&category=<?php echo $category; ?>">
                           <?php echo $data->ProductInfo->ProductID; ?>
                           </a>
                         </td>
@@ -116,9 +116,27 @@ if(!isset($_GET["name"])) {
 
     <script type="text/javascript">
       $(document).ready(function() {
-        $("input#product_search").keypress(function() {
+        $("input#product_search").keypress(function(e) {
           
-          console.log($(this).val());
+           var code = e.keyCode || e.which;
+           if(code == 13) { //Enter keycode
+              e.preventDefault();
+              var search_id = $(this).val();
+              console.log(search_id);
+              $("#tbl_product tr").each(function(index, target){
+                var id = $(this).attr("id");
+                if(id == undefined) return;
+                if(id.toLowerCase().indexOf(search_id.toLowerCase()) > -1) {
+                  $(this).show();
+                  
+                } else {
+                  $(this).hide();
+                }
+                
+              });
+           }
+          
+          
         });
       });
     </script>
