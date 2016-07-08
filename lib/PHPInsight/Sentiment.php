@@ -136,7 +136,7 @@ class Sentiment {
 
 			//Search if that prefix is in the document
 			if (strpos($sentence, $negPrefix) !== false) {
-				//Reove the white space after the negative prefix
+				//Remove the white space after the negative prefix
 				$sentence = str_replace($negPrefix . ' ', $negPrefix, $sentence);
 			}
 		}

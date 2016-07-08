@@ -1,0 +1,1886 @@
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 232
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->__construct() /home/ubuntu/workspace/examples/demo.php:20
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->loadDefaults() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:123
+[07-Jul-2016 07:51:27 UTC] PHP   4. PHPInsight\Sentiment->setDictionary() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:285
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 232
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->__construct() /home/ubuntu/workspace/examples/demo.php:20
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->loadDefaults() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:123
+[07-Jul-2016 07:51:27 UTC] PHP   4. PHPInsight\Sentiment->setDictionary() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:285
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 232
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->__construct() /home/ubuntu/workspace/examples/demo.php:20
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->loadDefaults() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:123
+[07-Jul-2016 07:51:27 UTC] PHP   4. PHPInsight\Sentiment->setDictionary() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:285
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->score() /home/ubuntu/workspace/examples/demo.php:24
+[07-Jul-2016 07:51:27 UTC] PHP   3. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 135
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 07:51:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, string given in /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php on line 163
+[07-Jul-2016 07:51:27 UTC] PHP Stack trace:
+[07-Jul-2016 07:51:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/demo.php:0
+[07-Jul-2016 07:51:27 UTC] PHP   2. PHPInsight\Sentiment->categorise() /home/ubuntu/workspace/examples/demo.php:25
+[07-Jul-2016 07:51:27 UTC] PHP   3. PHPInsight\Sentiment->score() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:204
+[07-Jul-2016 07:51:27 UTC] PHP   4. in_array() /home/ubuntu/workspace/lib/PHPInsight/Sentiment.php:163
+[07-Jul-2016 08:57:17 UTC] PHP Fatal error:  Call to undefined function get_file_contents() in /home/ubuntu/workspace/examples/refesh-data.php on line 12
+[07-Jul-2016 08:57:17 UTC] PHP Stack trace:
+[07-Jul-2016 08:57:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 08:59:42 UTC] PHP Warning:  file_get_contents(source.ign.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 08:59:42 UTC] PHP Stack trace:
+[07-Jul-2016 08:59:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 08:59:42 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/examples/refesh-data.php:13
+[07-Jul-2016 08:59:42 UTC] PHP Warning:  file_get_contents(source.neg.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 08:59:42 UTC] PHP Stack trace:
+[07-Jul-2016 08:59:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 08:59:42 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/examples/refesh-data.php:13
+[07-Jul-2016 08:59:42 UTC] PHP Warning:  file_get_contents(source.neu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 08:59:42 UTC] PHP Stack trace:
+[07-Jul-2016 08:59:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 08:59:42 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/examples/refesh-data.php:13
+[07-Jul-2016 08:59:42 UTC] PHP Warning:  file_get_contents(source.pos.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 08:59:42 UTC] PHP Stack trace:
+[07-Jul-2016 08:59:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 08:59:42 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/examples/refesh-data.php:13
+[07-Jul-2016 08:59:42 UTC] PHP Warning:  file_get_contents(source.prefix.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 08:59:42 UTC] PHP Stack trace:
+[07-Jul-2016 08:59:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 08:59:42 UTC] PHP   2. file_get_contents() /home/ubuntu/workspace/examples/refesh-data.php:13
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(/home/ubuntu/workspace/examples): failed to open stream: Transport endpoint is not connected in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(): Failed opening '.' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(/home/ubuntu/workspace): failed to open stream: Transport endpoint is not connected in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(): Failed opening '..' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(source.ign.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(): Failed opening 'source.ign.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(source.neg.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(): Failed opening 'source.neg.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(source.neu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(): Failed opening 'source.neu.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(source.pos.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(): Failed opening 'source.pos.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(source.prefix.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:02:46 UTC] PHP Warning:  include(): Failed opening 'source.prefix.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 13
+[07-Jul-2016 09:02:46 UTC] PHP Stack trace:
+[07-Jul-2016 09:02:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(source.ign.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(): Failed opening 'source.ign.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(source.neg.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(): Failed opening 'source.neg.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(source.neu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(): Failed opening 'source.neu.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(source.pos.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(): Failed opening 'source.pos.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(source.prefix.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:04:02 UTC] PHP Warning:  include(): Failed opening 'source.prefix.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:04:02 UTC] PHP Stack trace:
+[07-Jul-2016 09:04:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(source.ign.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(): Failed opening 'source.ign.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(source.neg.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(): Failed opening 'source.neg.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(source.neu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(): Failed opening 'source.neu.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(source.pos.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(): Failed opening 'source.pos.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(source.prefix.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:06:00 UTC] PHP Warning:  include(): Failed opening 'source.prefix.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:06:00 UTC] PHP Stack trace:
+[07-Jul-2016 09:06:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(source.ign.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(): Failed opening 'source.ign.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(source.neg.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(): Failed opening 'source.neg.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(source.neu.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(): Failed opening 'source.neu.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(source.pos.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(): Failed opening 'source.pos.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(source.prefix.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
+[07-Jul-2016 09:07:06 UTC] PHP Warning:  include(): Failed opening 'source.prefix.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/examples/refesh-data.php on line 14
+[07-Jul-2016 09:07:06 UTC] PHP Stack trace:
+[07-Jul-2016 09:07:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/examples/refesh-data.php:0
