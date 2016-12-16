@@ -15,7 +15,7 @@ if(isset($_GET["refresh"])) {
     }
     $i = 0;
     // Folders
-
+    $maxCategory = 1;
     foreach($dataSetFolders as $dataSetFolder) {
         if($dataSetFolder == "." || $dataSetFolder == "..") continue;
         if(!is_dir($dataSetPath . $dataSetFolder)) continue;
@@ -28,6 +28,7 @@ if(isset($_GET["refresh"])) {
             if(file_exists($dataSetFilePath)) {
                 $JsonData= json_decode(file_get_contents($dataSetFilePath));
                 foreach($JsonData->Reviews as $review) {
+                    if(count($authors) == $size) break;
                     if(empty($review->Author) || empty($JsonData->ProductInfo->ProductID)) continue;
 
                     if(!array_key_exists($review->Author, $authors) && !empty($review->Author) ) {
@@ -43,11 +44,12 @@ if(isset($_GET["refresh"])) {
                 }
             }
         }//end files
-        $i++;
+        
+
         ?>
     <?php }//end folders
     file_put_contents($authorPath, json_encode($authors));
-} else {
+} else {    
     $authors = json_decode(file_get_contents($authorPath), true);
 }
 
@@ -102,7 +104,7 @@ if(isset($_GET["refresh"])) {
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
             <h1 class="page-header">Author</h1>
-            <h2 class="sub-header">Amazon <a href="author.php?refresh=1">Refresh</a></h2>
+            <h2 class="sub-header">Amazon <a href="author.php?refresh=1&size=1000">Refresh</a></h2>
             <div class="table-responsive">
 
                 <!--Render Data -->
@@ -124,10 +126,13 @@ if(isset($_GET["refresh"])) {
                             <td><?php echo $authorData["name"]; ?></td>
                             <td><?php echo $authorData["count"]?></td>
                             <td><?php
-                                foreach($authorData["product"] as $product) {
-                                    $dataSetPath = __DIR__ . '/dataset/amazon/' . $authorData["category"] . '/' . $product . '.json';
-                                    if(file_exists($dataSetPath)) echo "<a href=' ". $dataSetPath ."'> " . $product. "</a>, ";
-                                }
+                            $str ="";
+                             foreach($authorData["product"] as $productId) {
+                                $dataSetPath = "dataset/amazon/" . $authorData["category"] . "/" . $productId . ".json" ;
+                                $str .= "<a href='". $dataSetPath ."'>". $productId ."</a>, ";
+                                } 
+                                $str = trim($str, ", ");
+                                echo $str;
                                 ?>
                             </td>
 
