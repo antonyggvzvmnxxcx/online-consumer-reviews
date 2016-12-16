@@ -1,5 +1,5 @@
 <?php
-$pos = array(
+return array(
   '%-)',
   '(-:',
   '(:',

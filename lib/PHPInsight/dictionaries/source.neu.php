@@ -1,5 +1,5 @@
 <?php
-$neu = array(
+return array(
   '(o;',
   '*)',
   '8-)',

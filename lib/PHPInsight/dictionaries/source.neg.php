@@ -1,5 +1,5 @@
 <?php
-$neg = array(
+return array(
   "%-(",
   ")-:",
   "):",

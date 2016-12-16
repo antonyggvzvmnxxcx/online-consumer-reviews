@@ -2,8 +2,13 @@
 if(!isset($_GET["id"]) && !isset($_GET["category"])) {
   exit(0); 
 } else {
-  $TITLE_RATING = 0.46;
-  $CONTENT_RATING = 0.54;
+  $TITLE_RATING = 0.45;
+  $CONTENT_RATING = 0.55;
+  /*$TITLE_RATING = 0.35;
+  $CONTENT_RATING = 0.45;
+  $RATING = 0.05;
+  $LONGEVITY = 0.05;
+  $REPUTATION = 0.1;*/
   
   
   $category = strtolower($_GET["category"]);
@@ -153,6 +158,11 @@ if(!isset($_GET["id"]) && !isset($_GET["category"])) {
                     </tr>
                     
                     <tr>
+                      <td>Price</td>
+                      <td><?php echo $data->ProductInfo->Price; ?><td>
+                    </tr>
+                    
+                    <tr>
                       <td>Review</td>
                       <td>
                         <a target ="_blank" href="/dataset/amazon/<?php echo $category . "/" . $productId . ".json"  ; ?>"><?php echo $totalReview; ?></a>
@@ -164,7 +174,7 @@ if(!isset($_GET["id"]) && !isset($_GET["category"])) {
                       <td colspan="2">
                         <!--Sentiment -->
                         <p> Sentiment</p>
-                        <div class="progress" data-toggle="collapse" href="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor:pointer;">
+                        <div class="progress" title="click to see detail" data-toggle="collapse" href="#collapseExample2" aria-expanded="false" aria-controls="collapseExample2" style="cursor:pointer;">
                          
                           <div title = "Positive" class="progress-bar progress-bar-success" style="width: <?php echo 100*($sentimentScore["pos"]);?>%">
                             <span><?php echo 100*$sentimentScore["pos"]; ?>%</span>

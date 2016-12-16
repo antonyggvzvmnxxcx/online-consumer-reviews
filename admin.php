@@ -1,12 +1,3 @@
-<?php
-$dictionariesPath= __DIR__ . '/lib/PHPInsight/dictionaries/';
-$dataPath= __DIR__ . '/lib/PHPInsight/data/';
-$dictionariesClass = array("ign", "neg", "neu", "pos", "prefix");
-$dictionariesFiles = array();
-if(file_exists($dictionariesPath)) {
-	$dictionariesFiles = scandir($dictionariesPath);
-}
-?>
 <!DOCTYPE html>
 <html lang="en">
 	
@@ -48,38 +39,47 @@ if(file_exists($dictionariesPath)) {
       <div class="row">
         <div class="col-sm-3 col-md-2 sidebar">
           <ul class="nav nav-sidebar">
-            <li><a href="#">Dictionary <span class="sr-only">(current)</span></a></li>
+            <li class="active"><a href="#">Dataset <span class="sr-only">(current)</span></a></li>
             <li><a href="author.php">Author</a></li>
-            <li class="active"><a href="dictionary.php">Dictionary</a></li>
+            <li><a href="dictionary.php">Dictionary</a></li>
           </ul>
           
         </div>
         <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
           <h1 class="page-header">DataSet</h1>
-         <?php
-			foreach($dictionariesFiles as $dictionariesFile) {
-				if($dictionariesFile == "." || $dictionariesFile == "..") continue;
-				$dictionariesFilePath = $dictionariesPath  . $dictionariesFile;
-				if(file_exists($dictionariesFilePath)) {
-					$sourceData = include($dictionariesFilePath);
-					
-					$serializeData = serialize($sourceData);
-					$dataFilePath = $dataPath. str_replace("source", "data", $dictionariesFile);
-					
-					if(file_exists($dataFilePath)) {
-						file_put_contents($dataFilePath, $serializeData);
-						echo "<h2 class='bg-success'>Refesh " . $dictionariesFile . "Data Successfully.<h2>";
-						
-				
-					} else {
-						echo "<h2 class='bg-danger'>Not found class</h2>";
-					}
-				
-				}
-			
-			}
-         ?>
-          
+          <h2 class="sub-header">Amazon</h2>
+          <div class="table-responsive">
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>Categories</th>
+                  <th>Total</th>
+                </tr>
+              </thead>
+              <tbody>
+                    <?php
+                    $dataSetPath = __DIR__ . '/dataset/amazon/';
+                    $dataSetFolders = array();
+                    if(file_exists($dataSetPath)) {
+                    	$dataSetFolders = scandir($dataSetPath);
+                    }
+                    $i = 0;
+                    foreach($dataSetFolders as $dataSetFolder) {
+                        if($dataSetFolder == "." || $dataSetFolder == "..") continue;
+                        if(!is_dir($dataSetPath . $dataSetFolder)) continue;
+                        $i++;
+                    ?>
+                    <tr>
+                        <td><?php echo $i; ?></td>
+                        <td><a href="category.php?name=<?php echo $dataSetFolder; ?>"><?php echo ucwords($dataSetFolder); ?></a></td>
+                        <td><?php echo count(scandir($dataSetPath . $dataSetFolder)); ?><td>
+                        
+                    </tr>
+                <?php } ?>
+                
+              </tbody>
+            </table>
           </div>
         </div>
       </div>

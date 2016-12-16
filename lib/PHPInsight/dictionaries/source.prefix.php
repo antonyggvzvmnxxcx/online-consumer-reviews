@@ -1,5 +1,5 @@
 <?php
-$prefix = array(
+return array(
   'aren\'t',
   'isn\'t',
   'not'

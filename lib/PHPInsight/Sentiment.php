@@ -6,7 +6,7 @@ namespace PHPInsight;
   uses a database of words categorised as positive, negative or neutral
 
   Copyright (C) 2012  James Hennessey
-  Class modifications and improvements by Ismayil Khayredinov (ismayil.khayredinov@gmail.com)
+  Class modifications and improvements by rinodung (tiendungdong@gmail.com)
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by

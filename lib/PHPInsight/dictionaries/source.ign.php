@@ -1,5 +1,5 @@
 <?php
-$ign = array(
+return array(
   'able',
   'about',
   'above',
