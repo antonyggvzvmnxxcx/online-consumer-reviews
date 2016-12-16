@@ -2,14 +2,14 @@
 if(!isset($_GET["id"]) && !isset($_GET["category"])) {
   exit(0); 
 } else {
-  $TITLE_RATING = 0.45;
-  $CONTENT_RATING = 0.55;
-  /*$TITLE_RATING = 0.35;
-  $CONTENT_RATING = 0.45;
-  $RATING = 0.05;
-  $LONGEVITY = 0.05;
-  $REPUTATION = 0.1;*/
-  
+  $TITLE_RATING = 0.35;
+  $CONTENT_RATING = 0.65;
+
+  //Affect
+  $RATING = 0.3; // 30%
+  $LONGEVITY = 0.33; // 33%
+  $POPULARITY = 0.37; // 37%
+  $enableOptions = true;
   
   $category = strtolower($_GET["category"]);
   $productId = $_GET["id"];
@@ -21,6 +21,9 @@ if(!isset($_GET["id"]) && !isset($_GET["category"])) {
     
   	$data= json_decode(file_get_contents($dataSetPath));
   } 
+
+  $authorPath = __DIR__ . '/dataset/author/amazon.json';
+  $authors = json_decode(file_get_contents($authorPath), true);
   
   $totalReview = count($data->Reviews);
   
@@ -33,13 +36,29 @@ if(!isset($_GET["id"]) && !isset($_GET["category"])) {
   if($totalReview > 0) {
     require_once __DIR__ . '/autoload.php';
     $sentiment = new \PHPInsight\Sentiment();
+    $options = array();
     foreach($data->Reviews as $review) {
-      
-      $titleScore = $sentiment->score($review->Title);
-      $contentScore = $sentiment->score($review->Content);
+        if($enableOptions) {
+            $authorScore = isset($authors[$review->Author]) ? $authors[$review->Author]["count"] : 0;
+            $options = array("RATING" => array("value" => floatval($review->Overall),
+                "mid" => 3,
+                "score" => $RATING),
+                "LONGEVITY" => array("value" => date('Y') - date('Y', strtotime($review->Date)),
+                    "mid" => 5,
+                    "score" => $LONGEVITY),
+                "POPULARITY" => array("value" => isset($authors[$review->Author]) ? $authors[$review->Author]["count"] : 0,
+                    "mid" => isset($authors[$review->Author]) ? 100 : 0,
+                    "score" => $POPULARITY),
+
+            );
+        }
+
+      $titleScore = $sentiment->score($review->Title, $options);
+
+      $contentScore = $sentiment->score($review->Content, $options);
        
-      $titleCategorise = $sentiment->categorise($review->Title);
-      $contentCategorise = $sentiment->categorise($review->Content);
+      $titleCategorise = $sentiment->categorise($review->Title, $options);
+      $contentCategorise = $sentiment->categorise($review->Content, $options);
       
       $reviewScore[$review->ReviewID] = array("title" => array("value" => $review->Title, 
                                                               "score" => $titleScore, 

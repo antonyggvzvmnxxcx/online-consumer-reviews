@@ -129,7 +129,7 @@ class Sentiment {
 	 * @param str $sentence Text to analyze
 	 * @return int Score
 	 */
-	public function score($sentence) {
+	public function score($sentence, $options = array()) {
 
 		//For each negative prefix in the list
 		foreach ($this->negPrefixList as $negPrefix) {
@@ -187,6 +187,48 @@ class Sentiment {
 			$scores[$class] = round($scores[$class] / $total_score, 3);
 		}
 
+		//options
+		foreach($options as $key=>$option) {
+			if($key == "RATTING") {
+				if($option["value"] > $option["mid"]) {
+					$scores["pos"] = $scores["pos"] + $option["score"]/100;
+					$scores["neg"] = $scores["neg"] - $option["score"]/100;
+				} else if($option["value"] < $option["mid"]) {
+					$scores["pos"] = $scores["pos"] - $option["score"]/100;
+					$scores["neg"] = $scores["neg"] + $option["score"]/100;
+				} else {
+					$scores["neu"] = $scores["neu"] + $option["score"]/100;
+					$scores["pos"] = $scores["pos"] - $option["score"]/200;
+					$scores["neg"] = $scores["neg"] - $option["score"]/200;
+				}
+			} else if($key == "LONGEVITY") {
+				if($option["value"] < $option["mid"]) {
+					$scores["pos"] = $scores["pos"] + $option["score"]/100;
+					$scores["neg"] = $scores["neg"] - $option["score"]/100;
+				} else if($option["value"] > $option["mid"]) {
+					$scores["pos"] = $scores["pos"] - $option["score"]/100;
+					$scores["neg"] = $scores["neg"] + $option["score"]/100;
+				} else {
+					$scores["neu"] = $scores["neu"] + $option["score"]/100;
+					$scores["pos"] = $scores["pos"] - $option["score"]/200;
+					$scores["neg"] = $scores["neg"] - $option["score"]/200;
+				}
+			} else if($key == "POPULARITY") {
+				if($option["value"] > $option["mid"]) {
+					$scores["pos"] = $scores["pos"] + $option["score"]/100;
+					$scores["neg"] = $scores["neg"] - $option["score"]/100;
+				} else if($option["value"] < $option["mid"]) {
+					$scores["pos"] = $scores["pos"] - $option["score"]/100;
+					$scores["neg"] = $scores["neg"] + $option["score"]/100;
+				} else {
+					$scores["neu"] = $scores["neu"] + $option["score"]/100;
+					$scores["pos"] = $scores["pos"] - $option["score"]/200;
+					$scores["neg"] = $scores["neg"] - $option["score"]/200;
+				}
+			}
+
+		}	
+		
 		//Sort array in reverse order
 		arsort($scores);
 
@@ -199,9 +241,9 @@ class Sentiment {
 	 * @param str $sentence
 	 * @return str pos|neu|neg
 	 */
-	public function categorise($sentence) {
+	public function categorise($sentence, $options = array()) {
 
-		$scores = $this->score($sentence);
+		$scores = $this->score($sentence, $options);
 
 		//Classification is the key to the scores array
 		$classification = key($scores);
